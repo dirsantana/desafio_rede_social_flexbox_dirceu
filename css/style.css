@@ -19,7 +19,7 @@ main {
     font-family: 'Raleway', sans-serif;
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 div.bloco {
